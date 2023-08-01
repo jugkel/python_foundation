@@ -1,0 +1,27 @@
+'''
+Challenge - What is your name
+Background and Objectives
+Validate once more your understanding of methods and variables.
+Learn how to use String interpolation and String methods
+Specs
+
+Compute name
+Implement a compute_name function line 2. Given the first_name, middle_name, and last_name, it should return the full name of the person.
+constraint: You must use string interpolation with f"{}" to build this full name.
+Key learning points
+Again, ask yourself these questions and make sure you can answer all of them:
+
+on variables
+
+What are the variables in your code?
+Where do you assign values to these variables and where do you use them?
+What’s the scope of a variable?
+on functions
+
+What is the function of your program? Where do you define it?
+Where do you call this method and with which arguments?
+What’s the flow of your program when you try to read it line by line?
+on strings
+
+What’s string interpolation? What’s the syntax to “insert” some python expression in a string?
+'''
